@@ -138,9 +138,6 @@ Updated 2 August 2019
     Selection for a Coarse-Grained Description of Coupled Oscillators*
     (in preparation)
 
-6.  G. Gordon, W. Cai, **J. Snyder**, and R. M. D’Souza, *Structure and
-    Dynamics of Mutualistic Networks in International Relations* (in
-    preparation)
 
 ### Presentations
 
