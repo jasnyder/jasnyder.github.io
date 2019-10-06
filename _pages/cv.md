@@ -141,7 +141,7 @@ Updated 2 August 2019
 
 ### Presentations
 
-#### Contributed Talks
+#### Talks
 
 1.  **J. Snyder**, A. Lokhov, and A. Zlotnik, *Coarse-Graining for
     Coupled Oscillators: A case study in discovering low-dimensional
@@ -156,6 +156,8 @@ Updated 2 August 2019
 
       - SIAM Conference on Applications of Dynamical Systems (DS19),
         Snowbird, UT, May 2019
+
+      - CSU Northridge Applied Math Seminar, Northridge, CA, October 2019, *Invited*
 
 2.  **J. Snyder**, W. Cai, and R. M. D’Souza, *Critical Slowing Down in
     Mutualistic Population Dynamics*, Complexnets Group Meeting, Davis,
