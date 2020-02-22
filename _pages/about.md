@@ -12,7 +12,7 @@ I'm an applied mathematician interested broadly in collective behavior, especial
 
 I earned my PhD in June 2019 from UC Davis, advised by [Raissa D'Souza](http://mae.engr.ucdavis.edu/dsouza/). You can read my dissertation [here](/files/dissertation.pdf).
 
-As of September 2019 I am a postdoc in [Nathan Kutz](https://faculty.washington.edu/kutz/) and [Steve Brunton](https://www.eigensteve.com/)'s groups at the University of Washington. From September to December 2019, I am in residence at [IPAM](http://ipam.ucla.edu) for their long program on [Machine Learning for Physics and the Physics of Learning](http://www.ipam.ucla.edu/programs/long-programs/machine-learning-for-physics-and-the-physics-of-learning/).
+As of September 2019 I am a postdoc in [Nathan Kutz](https://faculty.washington.edu/kutz/) and [Steve Brunton](https://www.eigensteve.com/)'s groups at the University of Washington. From September to December 2019, I was in residence at [IPAM](http://ipam.ucla.edu) for their long program on [Machine Learning for Physics and the Physics of Learning](http://www.ipam.ucla.edu/programs/long-programs/machine-learning-for-physics-and-the-physics-of-learning/).
 
 ## Bio
 I grew up in the [suburbs](https://en.wikipedia.org/wiki/Mill_Grove) of [Philly](https://en.wiktionary.org/wiki/jawn), then moved to [upstate](https://en.wikipedia.org/wiki/Troy,_New_York) New York for [college](http://www.pikappcastle.com/thehouse/) at RPI. After that I moved to sunny [Davis, California](https://daviswiki.org/) for grad school in [applied math](http://appliedmath.ucdavis.edu/).
