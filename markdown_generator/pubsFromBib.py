@@ -25,11 +25,12 @@ import os
 import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
+#todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
     "proceeding": {
         "file" : "proceedings.bib",
         "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
+        "venue-pretext": "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
         
@@ -40,7 +41,14 @@ publist = {
         "venue-pretext" : "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
-    } 
+    },
+    "thesis": {
+        "file" : "thesis.bib",
+        "venuekey" : "school",
+        "venue-pretext" : "",
+        "collection" : {"name":"publications",
+                       "permalink":"/publication/"}
+    }
 }
 
 html_escape_table = {
