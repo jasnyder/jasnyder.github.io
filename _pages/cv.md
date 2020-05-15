@@ -14,7 +14,7 @@ redirect_from:
 
 Department of Applied Mathematics, University of Washington  
 email: <jsnyd@uw.edu>  
-Updated 2 August 2019
+Updated 15 May 2020
 
 ### Areas of Interest
 
@@ -24,7 +24,7 @@ Updated 2 August 2019
 
   - Dynamical systems
 
-  - Information theory
+  - Data-driven modeling
 
 ### Education
 

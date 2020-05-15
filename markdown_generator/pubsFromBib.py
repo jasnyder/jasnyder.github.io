@@ -146,12 +146,18 @@ for pubsource in publist:
 
             md += "\ncitation: '" + html_escape(citation) + "'"
 
+            if "abstract" in b.keys():
+                md += "\nexcerpt: '" + html_escape(b['abstract']) + "'"
+
             md += "\n---"
 
 
             ## Markdown description for individual page
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
+
+            if "abstract" in b.keys():
+                md += "\nAbstract: " + html_escape(b['abstract']) + "\n"
 
             if url:
                 md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n"
