@@ -77,10 +77,7 @@ for pubsource in publist:
         b = bibdata.entries[bib_id].fields
 
         try:
-            if sys.version_info.major >= 3 and sys.version_info.minor >= 6:
-                pub_year = f'{b["year"]}'
-            else:
-                pub_year = str(b["year"])
+            pub_year = str(b["year"])
 
             #todo: this hack for month and day needs some cleanup
             if "month" in b.keys():
