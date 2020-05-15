@@ -30,4 +30,4 @@ jobs:
     - name: Run a multi-line script
       run: |
         cd markdown_generator
-        python pubsFromBib
+        python pubsFromBib.py
