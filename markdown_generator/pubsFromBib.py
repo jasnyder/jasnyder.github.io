@@ -23,6 +23,7 @@ import string
 import html
 import os
 import re
+import sys
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
@@ -76,9 +77,9 @@ for pubsource in publist:
         b = bibdata.entries[bib_id].fields
 
         try:
-            try:
+            if sys.version_info.major >= 3 and sys.version_info.minor >= 6:
                 pub_year = f'{b["year"]}'
-            except SyntaxError:
+            else:
                 pub_year = str(b["year"])
 
             #todo: this hack for month and day needs some cleanup
