@@ -12,9 +12,9 @@ redirect_from:
 
 ### Jordan Snyder, PhD
 
-Department of Applied Mathematics, University of Washington  
-email: <jsnyd@uw.edu>  
-Updated 15 May 2020
+Biocomplexity, Niels Bohr Institute, University of Copenhagen
+email: <jordan.snyder@nbi.ku.dk>  
+Updated 9 September 2021
 
 ### Areas of Interest
 
@@ -46,12 +46,19 @@ Updated 15 May 2020
 
 ### Research Experience
 
+  - Postdoc
+    **Fall 2019 - Fall 2021**
+    University of Washington, Department of Applied Mathematics
+    Mentors: Profs. J. Nathan Kutz and Steven L. Brunton
+
+    Applied data-driven techniques for learning stochastic dynamics to understand finite-size effects in coupled oscillator systems. Established properties of memory kernels for partially-observed linear dynamical systems.
+
   - Graduate Student Researcher  
     **Fall 2015 - Spring 2019**  
     UC Davis, Complexity Sciences Center and Department of Mathematics  
     Advisor: Raissa D’Souza
 
-    Working in the Complexity Sciences Center with major advisor Raissa
+    Worked in the Complexity Sciences Center with major advisor Raissa
     D’Souza on analytic and numerical techniques to discover general
     principles underlying the relationship between network structures
     and the dynamics on those networks.
@@ -125,7 +132,14 @@ Updated 15 May 2020
 
 #### Talks
 
-1.  **J. Snyder**, A. Lokhov, and A. Zlotnik, *Coarse-Graining for
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+
+-  **J. Snyder**, J. L. Callaham, S. L. Brunton, J. N. Kutz, *Data-driven stochastic modeling of coarse-grained dynamics with finite-size effects using Langevin regression*, SIAM Conference on Applications of Dynamical Systems (DS21), Virtual, May 2021
+
+-  **J. Snyder**, A. Lokhov, and A. Zlotnik, *Coarse-Graining for
     Coupled Oscillators: A case study in discovering low-dimensional
     dynamics*
 
@@ -141,15 +155,15 @@ Updated 15 May 2020
 
       - CSU Northridge Applied Math Seminar, Northridge, CA, October 2019, *Invited*
 
-2.  **J. Snyder**, W. Cai, and R. M. D’Souza, *Critical Slowing Down in
+-  **J. Snyder**, W. Cai, and R. M. D’Souza, *Critical Slowing Down in
     Mutualistic Population Dynamics*, Complexnets Group Meeting, Davis,
     CA, March 2018
 
-3.  **J. Snyder**, A. Zlotnik and A. Hagberg, *Modeling collective
+-  **J. Snyder**, A. Zlotnik and A. Hagberg, *Modeling collective
     behavior in hierarchically-organized systems*, Center for Nonlinear
     Studies, Los Alamos, NM, August 2017
 
-4.  **J. Snyder**, A. Zlotnik and A. Hagberg, *Entrainment of Coupled
+-  **J. Snyder**, A. Zlotnik and A. Hagberg, *Entrainment of Coupled
     Phase Oscillators*
 
       - MURI Grant Review Meeting, California Institute of Technology,
@@ -162,19 +176,19 @@ Updated 15 May 2020
 
       - Center for Nonlinear Studies, Los Alamos, NM, August 2016
 
-5.  **J. Snyder**, *Computing Geometric Integrated Information*,
+-  **J. Snyder**, *Computing Geometric Integrated Information*,
     Student-run Math / Applied Math Seminar, UC Davis, Davis, CA, June
     2016
 
 #### Poster
 
-1.  *Data-Driven Model Selection for Coarse-Graining Coupled
+-  *Data-Driven Model Selection for Coarse-Graining Coupled
     Oscillators*, Dynamics Days 2019, Evanston, IL, *January 2019*
 
-2.  *Entrainment of Coupled Oscillators*, CRITICS Workshop, Kulhuse,
+-  *Entrainment of Coupled Oscillators*, CRITICS Workshop, Kulhuse,
     Denmark, *September 2016*
 
-3.  *Stability of Entrainment in Coupled Oscillators*
+-  *Stability of Entrainment in Coupled Oscillators*
 
       - Dynamics Days 2017, Silver Spring, MD, *January 2017*
 
@@ -184,7 +198,7 @@ Updated 15 May 2020
       - International Physics of Living Systems (iPoLS) 2017 Annual
         Meeting, Paris, France, *June 2017*
 
-4.  *Critical Slowing Down Inidicators in a Mutualistic Network*, Third
+-  *Critical Slowing Down Inidicators in a Mutualistic Network*, Third
     Central Valley Regional SIAM Student Chapter Conference, Merced, CA,
     *April 2018*
 
