@@ -83,11 +83,11 @@ author:
   name             : "Jordan Snyder"
   avatar           : "profile.jpg"
   bio              : "Postdoc in applied mathematics"
-  location         : "Seattle"
-  employer         : "University of Washington"
+  location         : "Copenhagen"
+  employer         : "Niels Bohr Institute"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ufjrjx8AAAAJ&hl=en"
-  email            : "jsnyd@uw.edu"
+  email            : "jordan.snyder@nbi.ku.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
