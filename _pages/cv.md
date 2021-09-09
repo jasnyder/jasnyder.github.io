@@ -46,8 +46,8 @@ Updated 9 September 2021
 
 ### Research Experience
 
-  - Postdoc
-    **Fall 2019 - Fall 2021**
+  - Postdoc  
+    **Fall 2019 - Fall 2021**  
     University of Washington, Department of Applied Mathematics
     Mentors: Profs. J. Nathan Kutz and Steven L. Brunton
 
@@ -124,7 +124,7 @@ Updated 9 September 2021
 
 ### Publications
 
-<ol>{% for post in site.publications %}
+<ol>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ol>
 
@@ -133,7 +133,7 @@ Updated 9 September 2021
 #### Talks
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-single-talk-cv.html %}
 {% endfor %}
 
 
