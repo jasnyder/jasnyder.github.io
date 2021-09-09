@@ -132,53 +132,9 @@ Updated 9 September 2021
 
 #### Talks
 
-{% for post in site.talks reversed %}
+<ol>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
-{% endfor %}
-
-
--  **J. Snyder**, J. L. Callaham, S. L. Brunton, J. N. Kutz, *Data-driven stochastic modeling of coarse-grained dynamics with finite-size effects using Langevin regression*, SIAM Conference on Applications of Dynamical Systems (DS21), Virtual, May 2021
-
--  **J. Snyder**, A. Lokhov, and A. Zlotnik, *Coarse-Graining for
-    Coupled Oscillators: A case study in discovering low-dimensional
-    dynamics*
-
-      - Center for Nonlinear Studies, Los Alamos, NM, September 2018
-
-      - APS Far West Section annual meeting, Fullerton, CA, October 2018
-
-      - Student-run Math / Applied Math Seminar, UC Davis, Davis, CA,
-        November 2018
-
-      - SIAM Conference on Applications of Dynamical Systems (DS19),
-        Snowbird, UT, May 2019
-
-      - CSU Northridge Applied Math Seminar, Northridge, CA, October 2019, *Invited*
-
--  **J. Snyder**, W. Cai, and R. M. D’Souza, *Critical Slowing Down in
-    Mutualistic Population Dynamics*, Complexnets Group Meeting, Davis,
-    CA, March 2018
-
--  **J. Snyder**, A. Zlotnik and A. Hagberg, *Modeling collective
-    behavior in hierarchically-organized systems*, Center for Nonlinear
-    Studies, Los Alamos, NM, August 2017
-
--  **J. Snyder**, A. Zlotnik and A. Hagberg, *Entrainment of Coupled
-    Phase Oscillators*
-
-      - MURI Grant Review Meeting, California Institute of Technology,
-        Pasadena, CA, December 2016
-
-      - Student-run Math / Applied Math Seminar, UC Davis, Davis, CA,
-        October 2016
-
-      - SIAM Student Chapter, UC Merced, Merced, CA, October 2016
-
-      - Center for Nonlinear Studies, Los Alamos, NM, August 2016
-
--  **J. Snyder**, *Computing Geometric Integrated Information*,
-    Student-run Math / Applied Math Seminar, UC Davis, Davis, CA, June
-    2016
+{% endfor %}</ol>
 
 #### Poster
 
