@@ -7,7 +7,7 @@ tags:
   - organogenesis
   - visualization
 ---
-I am working on a model of organ growth with the aim of simulating the development of branched structures. As a basis I am taking the model used in this paper:
+Together with Bjarke Nielsen, Ala Trusina, and Kim Sneppen, I am working on a model of organ growth with the aim of simulating the development of branched structures. As a basis I am taking the model used in this paper:
 * Nielsen BF, Nissen SB, Sneppen K, Mathiesen J, Trusina A. Model to Link Cell Shape and Polarity with Organogenesis. iScience. 2020 Feb 21;23(2):100830. doi: [10.1016/j.isci.2020.100830](https://doi.org/10.1016/j.isci.2020.100830). Epub 2020 Jan 11.
 
 You can see some videos of the dynamics by clicking the links below. Animations are directly embedded in HTML
