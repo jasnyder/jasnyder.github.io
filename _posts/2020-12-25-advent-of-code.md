@@ -55,8 +55,8 @@ with open('input.txt','r') as fobj:
 My code will modify the list `nums` until it has length 2020, and then will stop and output the last number that was added. To figure out which number to add next, I need to:
  * look at the most recent number
  * figure out if that number was said previously to the last turn
- * * if not, output zero
- * * if so, find the most recent occurrence and output how many turns ago it was
+   * if not, output zero
+   * if so, find the most recent occurrence and output how many turns ago it was
 
  Because I want to make the code as simple as possible (i.e. use only builtin python functions whenever possible), I'll use the `.index()` method of `list` objects to find prior occurrences. Since `.index()` finds the *first* occurrence of the desired element, I'll keep the list of numbers in reverse order:
  ```python
@@ -107,13 +107,11 @@ for turn, num in enumerate(nums[:-1]):
 Now we define a routine called `next` that takes in the dictionary, together with the current number and the current turn. This function does two things: updates the `last_spoken` dictionary, and computes the next number. Importantly, it computes the next number *before* updating the dictionary. If the dictionary were updated first, there would be no way to tell whether or not the current number has been spoken preveiously to the most recent turn (at least without storing additional information...)
 ```python
 def next(current_num, last_spoken, turn):
-    if current_num in last_spoken.keys():
-        next_num = turn - last_spoken[current_num]
-    else:
-        next_num = 0
+    next_num = turn - last_spoken.get(current_num, turn)
     last_spoken[current_num] = turn
     return next_num
 ```
+The `.get()` method performs the necessary logic; the default value of `turn` is returned in the case that `current_num` is not in `last_spoken.keys()`, and this makes it so that `next_num=0`.
 
 Finally, all that's left to do is set `current_num` and `turn`, and compute until we reach the desired term!
 ```python
@@ -128,13 +126,5 @@ with open('output2.txt','w') as fobj:
     fobj.write(str(current_num))
 ```
 
-Bonus! You can actually rewrite the `next` function in a simpler way, using the `.get()` method of `dict` objects. The `.get()` works just like accessing with a key, but you can choose a default value to be returned if the key is not found. This abstracts away the `if` statement in the above implementation: the default value of `turn` makes it so that `next_num = 0` in the case that `current_num` is not in `last_spoken.keys()`.
-```python
-def next(current_num, last_spoken, turn):
-    next_num = turn - last_spoken.get(current_num, turn)
-    last_spoken[current_num] = turn
-    return next_num
-```
 
-# Conclusion
-This was a cool problem
+This returns the correct answer in a few seconds on my laptop. Much better than 6.5 years!
