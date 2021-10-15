@@ -1,7 +1,6 @@
 ---
 title: 'Advent of code 2020'
 date: 2020-12-25
-permalink: /posts/2020/12/25-advent-of-code
 tags:
   - code
   - puzzles
