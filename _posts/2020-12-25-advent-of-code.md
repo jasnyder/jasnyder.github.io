@@ -1,5 +1,6 @@
 ---
 title: 'Advent of code 2020'
+permalink: /posts/2020/12/25-advent-of-code
 date: 2020-12-25
 tags:
   - code
