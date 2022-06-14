@@ -262,7 +262,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages (>= 224)
+  github-pages (>= 226)
   hawkins
   jekyll-feed
   jekyll-sitemap
