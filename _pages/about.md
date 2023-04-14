@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm an applied mathematician interested broadly in collective behavior, especially as modeled by dynamical systems on networks. My current interest is in developing methods to infer low-dimensional equations of motion directly from data.
+I'm an applied mathematician interested broadly in collective behavior. My current research deals with mathematical modeling of blood cancers, and is supported by a Lundbeck grant led by [Thomas Stiehl](http://www.thomas-stiehl.de/).
 
-As of September 2021 I am a postdoc in the Biocomplexity group at the [Niels Bohr Institute](https://nbi.ku.dk/), University of Copenhagen.
+Since August 2022 I am an Assistant Professor at [Roskilde University](http://ruc.dk)
+
+From September 2021 to July 2022 I was a postdoc in the Biocomplexity group at the [Niels Bohr Institute](https://nbi.ku.dk/), University of Copenhagen.
 
 I earned my PhD in June 2019 from UC Davis, advised by [Raissa D'Souza](http://mae.engr.ucdavis.edu/dsouza/). You can read my dissertation [here](/files/dissertation.pdf).
 
