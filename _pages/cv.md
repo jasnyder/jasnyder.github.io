@@ -11,20 +11,25 @@ redirect_from:
 
 
 ### Jordan Snyder, PhD
+Assistant Professor
 
-Biocomplexity, Niels Bohr Institute, University of Copenhagen
-email: <jordan.snyder@nbi.ku.dk>  
-Updated 9 September 2021
+Centre for Mathematical Health and Disease Modeling
+IMFUFA
+Department of Natural Science and Environment (INM)
+Roskilde Univeristy
+
+email: <jordan@ruc.dk>
+Updated 8 May 2023
 
 ### Areas of Interest
 
-  - Phase transitions and critical phenomena on networks
-
   - Collective phenomena and self-organization
 
-  - Dynamical systems
+  - Mathematical modeling of biological systems
 
   - Data-driven modeling
+
+  - Phase transitions and critical phenomena on networks
 
 ### Education
 
@@ -45,6 +50,20 @@ Updated 9 September 2021
     Advisor: Joel Giedt
 
 ### Research Experience
+
+  - Assistant Professor
+    **Fall 2022 - present**
+    Roskilde University, Department of Science and Environment
+    PI: Prof. Thomas Stiehl, RWTH Aachen Univeristy
+
+    Applied mathematical models of blood cancer to longitudinal data from a general population survey to better understand the early stages leading to myeloproliferative neoplasm (MPN) disease.
+
+  - Postdoc
+    **Fall 2021 - Fall 2022**
+    Niels Bohr Institute, Copenhagen University, Copenhagen, Denmakr
+    Mentors: Profs. Kim Sneppen and Ala Trusina
+
+    Computational modeling to understand the formation of branched organs.
 
   - Postdoc  
     **Fall 2019 - Fall 2021**  
@@ -138,6 +157,8 @@ Updated 9 September 2021
 
 #### Poster
 
+-  *Mathematical modeling of clonal expansion before the onset of disease via a general population study*, 2023 SIAM Conference on Applications of Dynamical Systems, Portland, OR, *May 2023*
+
 -  *Data-Driven Model Selection for Coarse-Graining Coupled
     Oscillators*, Dynamics Days 2019, Evanston, IL, *January 2019*
 
@@ -148,7 +169,7 @@ Updated 9 September 2021
 
       - Dynamics Days 2017, Silver Spring, MD, *January 2017*
 
-      - 2017 SIAM Conference on Dynamical Systems, Snowbird, UT, *May
+      - 2017 SIAM Conference on Applications of Dynamical Systems, Snowbird, UT, *May
         2017*
 
       - International Physics of Living Systems (iPoLS) 2017 Annual
@@ -217,7 +238,7 @@ Updated 9 September 2021
     Participated in group project work on modeling (both analytically
     and numerically) a system of interacting particles subject to noise.
 
-### Projects
+### Projects I worked on during my PhD
 
   - *Coarse-Graining for Coupled Oscillators*, research project at Los
     Alamos National Lab, *Summer 2018*
@@ -226,28 +247,33 @@ Updated 9 September 2021
         degrees of freedom describing synchronization of phase
         oscillators on a modular network. Used numerical and analytical
         results to deduce transitions between high- and low-dimensional
-        dynamical behavior. Work in progress with Anatoly Zlotnik and
+        dynamical behavior. Work done in collaboration with Anatoly Zlotnik and
         Andrey Lokhov.
+      
+      - Published in *Phys. Rev. Research*, [10.1103/PhysRevResearch.2.043402](http://dx.doi.org/10.1103/PhysRevResearch.2.043402)
 
   - *A Dynamic Niche Model for the Spontaneous Emergence of Mutualistic
-    Network Structures*, research project at UC Davis, *Fall 2017 -
-    present*
+    Network Structures*, research project at UC Davis, *Fall 2017 - Fall 2019*
 
       - Developed a theoretical model of the evolution of a mutualistic
         ecosystem, incorporating a feedback between the species
         abundances and the structure of the species-species interaction
         network. Reproduced network properties that are seen in the real
         world, and that were previously not explained by any single
-        model. Work to be submitted with Weiran Cai and Raissa D’Souza.
+        model. Work done in collaboration with Weiran Cai, Alan Hastings, and Raissa D’Souza.
+
+      - Published in *Nature Communications*, [10.1038/s41467-020-19154-5](http://dx.doi.org/10.1038/s41467-020-19154-5)
 
   - *Early Warning Signals in Mutualistic Population Dynamics*, research
-    project at UC Davis, *Fall 2017 - present*
+    project at UC Davis, *Fall 2017 - 2022*
 
       - Investigated statistical signatures of correlated extinction
         events in a stylized model of population dynamics on empirical
         mutualistic networks. Connected modularity and nestedness of
         interaction networks with the course of ecosystem-wide
-        extinction. Work in progress with Raissa D’Souza and Weiran Cai.
+        extinction. Work done in collaboration with Weiran Cai and Raissa D'Souza
+      
+      - Published in *Phys. Rev. Research*, [10.1103/physrevresearch.4.013040](http://dx.doi.org/10.1103/physrevresearch.4.013040)
 
   - *Entrainment of Coupled Oscillators*, research project at Los Alamos
     National Lab, *Summer 2016-2017*
