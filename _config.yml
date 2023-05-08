@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jordan Snyder"
   avatar           : "profile.jpg"
-  bio              : "Postdoc in applied mathematics"
+  bio              : "Assistant Professor of Mathematical Health and Disease Modeling"
   location         : "Copenhagen"
-  employer         : "Niels Bohr Institute"
+  employer         : "Roskilde University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ufjrjx8AAAAJ&hl=en"
-  email            : "jordan.snyder@nbi.ku.dk"
+  email            : "jordan@ruc.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
