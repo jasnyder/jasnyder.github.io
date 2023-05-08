@@ -51,23 +51,23 @@ Updated 8 May 2023
 
 ### Research Experience
 
-  - Assistant Professor
-    **Fall 2022 - present**
-    Roskilde University, Department of Science and Environment
+  - Assistant Professor  
+    **Fall 2022 - present**  
+    Roskilde University, Department of Science and Environment  
     PI: Prof. Thomas Stiehl, RWTH Aachen Univeristy
 
     Applied mathematical models of blood cancer to longitudinal data from a general population survey to better understand the early stages leading to myeloproliferative neoplasm (MPN) disease.
 
-  - Postdoc
-    **Fall 2021 - Fall 2022**
-    Niels Bohr Institute, Copenhagen University, Copenhagen, Denmakr
+  - Postdoc  
+    **Fall 2021 - Fall 2022**  
+    Niels Bohr Institute, Copenhagen University, Copenhagen, Denmark  
     Mentors: Profs. Kim Sneppen and Ala Trusina
 
     Computational modeling to understand the formation of branched organs.
 
   - Postdoc  
     **Fall 2019 - Fall 2021**  
-    University of Washington, Department of Applied Mathematics
+    University of Washington, Department of Applied Mathematics  
     Mentors: Profs. J. Nathan Kutz and Steven L. Brunton
 
     Applied data-driven techniques for learning stochastic dynamics to understand finite-size effects in coupled oscillator systems. Established properties of memory kernels for partially-observed linear dynamical systems.
